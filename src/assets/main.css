@@ -1,0 +1,26 @@
+body {
+  background-color: #f2f2f2;
+  margin: 0px;
+  font-family: tahoma;
+  color: #282828;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h3 {
+  font-size: 25px;
+}
+
+p {
+  font-size: 22px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  font-size: 18px;
+}
